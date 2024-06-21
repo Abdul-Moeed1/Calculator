@@ -21,7 +21,7 @@ function answer(){
             console.log("ans:" + ans);
             if(ans==undefined){
 
-                document.getElementById("screen").innerText="Shi Expression Likhain";
+                document.getElementById("screen").innerText="Sahi Expression Likhain";
                 str = "";
             }
             else{
@@ -32,7 +32,7 @@ function answer(){
         }    
         // str="";
     } catch (error) {
-        document.getElementById("screen").innerText="Shi Expression Likhain";
+        document.getElementById("screen").innerText="Sahi Expression Likhain";
         
         str = "";
     }
